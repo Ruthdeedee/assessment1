@@ -7,7 +7,7 @@ export default function Home() {
 <div>
   <div className='flex justify-around shadow-xl h-30'>
     <h1 className='text-gray-900 text-3xl mr-auto font-bold pl-10 mt-2'>naira
-    <span className='text-orange-600'>refill</span>
+    <span className='text-orange-700'>refill</span>
     </h1>
     <div className='mr-5'>
       <button className='bg-orange-600 text-white m-3 h-6 border rounded-lg text-sm w-[100px]'>Register</button>
@@ -18,7 +18,7 @@ export default function Home() {
 
   <div className="flex flex-row justify-center gap-40 mt-10 sm:mt-0 items-center">
           <div>
-            <h1 className='text-1xl font-bold'>We've Missed You</h1>
+            <h3 className='text-1xl font-bold'>We've Missed You</h3>
             <br />
             <p className='text-sm '>
               Kindly signin and get first <br /> access to the very best, <br /> community and
