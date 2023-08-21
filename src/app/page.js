@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import signIn from '../assets/signIn.png'
+import signIn from '../../public/assets/signIn.png'
 
 export default function Home() {
   return (
